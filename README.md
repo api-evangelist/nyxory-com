@@ -1,4 +1,4 @@
-# nyxory
+# Nyxory
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,43 +64,36 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-nyxory provides an AI‑operated platform that runs software agents on European infrastructure, offering governed, auditable operations, rapid deployment from idea to production, and compliance with regulations such as the EU AI Act. It enables teams to build, ship, and monitor applications at agent speed while maintaining full control and liability.
+Nyxory provides an AI‑powered platform that lets companies build software agents and applications in days. Operating on European infrastructure, it offers managed hosting, secure secret storage, automated deployment, and a marketplace of agents. The service emphasizes data residency, compliance, and low‑cost scaling for enterprises and agencies.
 
-**Areas:** AI · Platform · Operations · Governance · European
+**Areas:** AI · Platform · Agents · European Infrastructure · Compliance
 
-## nyxory on APIs.io
+## Nyxory on APIs.io
 
-Everything profiled for nyxory is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/nyxory-com/](https://apis.io/providers/nyxory-com/)** — or go straight to one of the APIs or properties below.
+Everything profiled for Nyxory is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/nyxory-com/](https://apis.io/providers/nyxory-com/)** — or go straight to one of the APIs or properties below.
 
-### APIs (2)
+### APIs (1)
 
-- [Nyxory API](https://apis.io/apis/nyxory-com/nyxory-api/) — Nyxory provides an AI‑operated platform with a developer console and API documentation.
-- [nyxory API](https://apis.io/apis/nyxory-com/nyxory-com-api/) — nyxory API as documented publicly: 2 operations. Contract generated from the documentation by API Evangelist (2026-11-19); not the provider's own document.
+- [Nyxory API](https://apis.io/apis/nyxory-com/nyxory-api/) — Nyxory API provides AI‑powered platform endpoints as documented.
 
 ### Published properties
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-#### Governance rules (1)
-
-Spectral rulesets for the provider's contracts.
-
-- [nyxory API Rules](https://apis.io/rules/nyxory-com/nyxory-com-rules/)
-
 #### Security (4)
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [nyxory Authentication](https://apis.io/security/nyxory-com/nyxory-com-authentication/)
-- [nyxory Domain Security](https://apis.io/security/nyxory-com/nyxory-com-domain-security/)
-- [nyxory Trust Center](https://apis.io/security/nyxory-com/nyxory-com-trust-center/)
-- [nyxory Vulnerability Disclosure](https://apis.io/security/nyxory-com/nyxory-com-vulnerability-disclosure/)
+- [Nyxory Authentication](https://apis.io/security/nyxory-com/nyxory-com-authentication/)
+- [Nyxory Domain Security](https://apis.io/security/nyxory-com/nyxory-com-domain-security/)
+- [Nyxory Trust Center](https://apis.io/security/nyxory-com/nyxory-com-trust-center/)
+- [Nyxory Vulnerability Disclosure](https://apis.io/security/nyxory-com/nyxory-com-vulnerability-disclosure/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [nyxory Plans Pricing](https://apis.io/plans/nyxory-com/nyxory-com-plans-pricing/)
+- [Nyxory Plans Pricing](https://apis.io/plans/nyxory-com/nyxory-com-plans-pricing/)
 
 ## Where to find this API
 
@@ -117,22 +110,22 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 49.5** — developing · rubric 0.28.0 · scored 2026-11-20
+**Kin Score 27.8** — thin · rubric 0.28.0 · scored 2026-11-20
 
 | Facet | Score |
 |---|---|
-| Discoverability | 64.3 |
-| Contract quality | 38.0 |
-| Contract governance | 79.1 |
+| Discoverability | 57.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
 | Operational transparency | 9.5 |
-| Developer ergonomics | 39.8 |
+| Developer ergonomics | 33.3 |
 | Access clarity | 61.3 |
 
-**Agent readiness 39.3** — agent-ready (gated down from agent-native)
+**Agent readiness 21.8** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
-| Spec Presence | yes |
+| Spec Presence | — |
 | Agentic Access | — |
 | Reversibility Documented | — |
 | MCP Server | documented (partial credit) |
@@ -142,7 +135,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | OpenAPI Examples | — |
 | Rate Limit Signal | — |
 | Event Surface Described | — |
-| Agent Skills | unknown |
+| Agent Skills | — |
 | Well Known Catalog | — |
 | Consent Identity | — |
 | Agent Card | — |
@@ -152,10 +145,10 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Dynamic Client Registration | yes |
 | Agentic Commerce | — |
 | Pagination Ratio | na |
-| Operation Distinctiveness | distinct |
+| Operation Distinctiveness | na |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 32.7** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 28.2** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/nyxory-com/](https://apis.io/providers/nyxory-com/).
 
@@ -163,7 +156,7 @@ The rubric is published at [github.com/api-evangelist/kin-score](https://github.
 
 API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for nyxory: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Nyxory: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
 ## Open an issue
 
